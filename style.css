@@ -97,11 +97,19 @@ padding-top: 50px;
 }
 
 .front-cover img > *:nth-child(1){
-                         flex: 1 1 30%;
+                         flex: 1 1 40%;
               }
 .front-cover img > *:nth-child(2) {
-                   flex: 1 1 70%;
+                   flex: 1 1 60%;
               }
-
+.front-cover img > *:nth-child(3){
+                         flex: 1 0 60%;
+              }
+.front-cover img > *:nth-child(4) {
+                   flex: 1 0 40%;
+              }
+.front-cover img > *:nth-child(4) {
+                   flex: 1 0 100%;
+              }
 
 
