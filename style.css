@@ -96,10 +96,10 @@ padding-top: 50px;
 }
 }
 
-.font-cover > *:nth-child(1){
+.font-cover img > *:nth-child(1){
                          flex: 1 0 30%;
               }
-.font-cover > *:nth-child(2) {
+.font-cover img > *:nth-child(2) {
                    flex: 1 0 70%;
               }
 
