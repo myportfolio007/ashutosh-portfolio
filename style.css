@@ -103,13 +103,13 @@ padding-top: 50px;
                    flex: 1 1 60%;
               }
 .front-cover img > *:nth-child(3){
-                         flex: 1 1 60%;
+                         flex: 2 1 60%;
               }
 .front-cover img > *:nth-child(4){
-                   flex: 1 1 40%;
+                   flex: 2 1 40%;
               }
 .front-cover img > *:nth-child(5){
-                   flex: 1 1 100%;
+                   flex: 3 1 100%;
               }
 
 
