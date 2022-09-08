@@ -102,14 +102,6 @@ padding-top: 50px;
 .front-cover img > *:nth-child(2){
                    flex: 1 1 60%;
               }
-.front-cover img > *:nth-child(3){
-                         flex: 2 1 60%;
-              }
-.front-cover img > *:nth-child(4){
-                   flex: 2 1 40%;
-              }
-.front-cover img > *:nth-child(5){
-                   flex: 3 1 100%;
-              }
+
 
 
