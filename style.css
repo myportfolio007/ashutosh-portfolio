@@ -65,8 +65,8 @@ padding-top: 50px;
   .front-cover{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: column;
+
+  
   
   
   }
